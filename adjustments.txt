@@ -1,0 +1,9 @@
+add,apples,2
+subtract,mangoes,1
+multiply,oranges,2
+add,strawberries,5
+subtract,watermelons,4
+multiply,lemons,2
+add,bananas,2
+subtract,pineapple,7
+multiply,cherries,1
